@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e1f7df2-01d7-4df8-81fa-4f5dfaeaae5f" name="Default Changelist" comment="" />
+    <list default="true" id="1e1f7df2-01d7-4df8-81fa-4f5dfaeaae5f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/caretakers_functions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/caretakers_functions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/caretakers_functions.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/caretakers_functions.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/caretakers_functions.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/caretakers_functions.ts" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,13 +27,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1TYxe2KFmkndUCTrp8gfQTFYqNx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -57,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573650921648</updated>
-      <workItem from="1573650923017" duration="2773000" />
+      <workItem from="1573650923017" duration="3685000" />
     </task>
     <servers />
   </component>
@@ -74,7 +90,19 @@
         <option value="$PROJECT_DIR$/src/Code.js" />
         <option value="$PROJECT_DIR$/src/caretakers_functions.js.map" />
         <option value="$PROJECT_DIR$/src/caretakers_functions.js" />
+        <option value="$PROJECT_DIR$/src/caretakers_functions.js" />
       </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
     </option>
   </component>
 </project>

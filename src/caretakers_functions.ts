@@ -3,5 +3,7 @@ const zip = (arr, ...arrs) => {
 }
 
 export function concatenate_email_addresses(names:Array<string>, email_addresses:Array<string>):string {
-    return "xxxx";
+    const email_addresses_and_names: Array<[string,string]> = zip(email_addresses, names)
+
+    return email_addresses_and_names.map((e,n)=>`<${n}>${e}`).join("; ")
 }
